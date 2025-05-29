@@ -29,6 +29,12 @@ It's not just for practice — the focus is on real-world efficiency and securit
 Right now this is a solo educational + practical project.  
 Later I may consider opening it for collaboration.
 
+## 🧾 License
+
+This project is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).  
+You may view and study this code for personal or educational purposes,  
+but you may **not** use it commercially or distribute modified versions without permission.
+
 ---
 
 💬 *This project is part of my deep dive into cryptography, systems programming, and secure wallet recovery. Stay tuned — it’s only the beginning.*
