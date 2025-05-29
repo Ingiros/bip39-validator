@@ -39,8 +39,9 @@ but you may **not** use it commercially or distribute modified versions without 
 
 💬 *This project is part of my deep dive into cryptography, systems programming, and secure wallet recovery. Stay tuned — it’s only the beginning.*
 
-## Author
-Ingiros 🛡️ — building tools that matter.
+## Author  
+🛡️ **Ingiros** — building tools that matter  
+🔗 GitHub: [github.com/Ingiros](https://github.com/Ingiros)
 
 ## ☕ Support This Project
 
