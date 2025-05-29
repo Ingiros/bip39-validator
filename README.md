@@ -29,11 +29,21 @@ It's not just for practice — the focus is on real-world efficiency and securit
 Right now this is a solo educational + practical project.  
 Later I may consider opening it for collaboration.
 
-## 🧾 License
+## 🛡️ License & Respect
 
 This project is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).  
 You may view and study this code for personal or educational purposes,  
 but you may **not** use it commercially or distribute modified versions without permission.
+
+This project is shared to support open research and education.
+
+Please respect the following:
+
+- ✅ Keep attribution — credit the original author: **Ingiros**  
+- 🚫 Do not use this project for unauthorized commercial purposes  
+- 💬 Reach out if you want to collaborate or use parts of this project
+
+The goal is to build meaningful and ethical tools — together.
 
 ---
 
