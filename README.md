@@ -29,6 +29,9 @@ It's not just for practice — the focus is on real-world efficiency and securit
 Right now this is a solo educational + practical project.  
 Later I may consider opening it for collaboration.
 
+## No secrets. No illusions. Just crypto you own.
+⭐️ Star it if you believe crypto should be raw, verifiable, and yours.
+
 ## 🛡️ License & Respect
 
 This project is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).  
